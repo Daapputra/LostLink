@@ -1,0 +1,211 @@
+{
+  "tfidf_lr": {
+    "model": "TF-IDF + Logistic Regression",
+    "accuracy": 0.925,
+    "precision": 0.9284,
+    "recall": 0.925,
+    "f1_score": 0.9248,
+    "train_time_seconds": 0.124,
+    "inference_time_seconds": 0.0008,
+    "total_time_seconds": 0.2212,
+    "train_size": 320,
+    "test_size": 80,
+    "num_features": 2204,
+    "categories": [
+      "Aksesori",
+      "Alat Tulis",
+      "Barang Lainnya",
+      "Dompet",
+      "Handphone",
+      "Kartu Identitas",
+      "Kunci",
+      "Laptop",
+      "Tas"
+    ],
+    "confusion_matrix": [
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        7
+      ]
+    ],
+    "classification_report": {
+      "Aksesori": {
+        "precision": 0.9,
+        "recall": 1.0,
+        "f1-score": 0.9473684210526315,
+        "support": 9.0
+      },
+      "Alat Tulis": {
+        "precision": 0.9,
+        "recall": 1.0,
+        "f1-score": 0.9473684210526315,
+        "support": 9.0
+      },
+      "Barang Lainnya": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "f1-score": 0.9333333333333333,
+        "support": 8.0
+      },
+      "Dompet": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 9.0
+      },
+      "Handphone": {
+        "precision": 0.8888888888888888,
+        "recall": 0.8888888888888888,
+        "f1-score": 0.8888888888888888,
+        "support": 9.0
+      },
+      "Kartu Identitas": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 9.0
+      },
+      "Kunci": {
+        "precision": 1.0,
+        "recall": 0.8888888888888888,
+        "f1-score": 0.9411764705882353,
+        "support": 9.0
+      },
+      "Laptop": {
+        "precision": 0.8,
+        "recall": 0.8888888888888888,
+        "f1-score": 0.8421052631578947,
+        "support": 9.0
+      },
+      "Tas": {
+        "precision": 0.875,
+        "recall": 0.7777777777777778,
+        "f1-score": 0.8235294117647058,
+        "support": 9.0
+      },
+      "accuracy": 0.925,
+      "macro avg": {
+        "precision": 0.929320987654321,
+        "recall": 0.9243827160493827,
+        "f1-score": 0.9248633566487023,
+        "support": 80.0
+      },
+      "weighted avg": {
+        "precision": 0.9284375,
+        "recall": 0.925,
+        "f1-score": 0.9247574819401445,
+        "support": 80.0
+      }
+    },
+    "timestamp": "2026-10-09T14:40:00.153349"
+  },
+  "lstm": {
+    "model": "Word Embedding + LSTM",
+    "status": "skipped",
+    "reason": "TensorFlow not available: No module named 'tensorflow.python'",
+    "timestamp": "2026-10-09T14:40:00.168435"
+  },
+  "timestamp": "2026-10-09T14:40:00.170436",
+  "notes": [
+    "Kedua model dievaluasi pada split data yang sama (test_size=0.2, random_state=42).",
+    "Dataset sintetis dengan distribusi kategori yang relatif seimbang.",
+    "TF-IDF menggunakan unigram dan bigram.",
+    "LSTM menggunakan Bidirectional LSTM dengan embedding layer yang dilatih dari dataset.",
+    "Perbandingan ini bersifat eksperimental dan tidak dapat digeneralisasi ke dataset lain."
+  ]
+}

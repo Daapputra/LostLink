@@ -1,0 +1,6 @@
+{
+  "model": "Word Embedding + LSTM",
+  "status": "skipped",
+  "reason": "TensorFlow not available: No module named 'tensorflow.python'",
+  "timestamp": "2026-10-09T14:40:00.168435"
+}

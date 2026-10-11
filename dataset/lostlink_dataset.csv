@@ -1,0 +1,401 @@
+report_id,report_type,item_name,category,description,color,location,event_date,match_group
+RPT-0001,lost,dompet panjang,Dompet,Siapa yang menemukan dompet panjang biru di Toilet Lantai 2 Gedung A? berisi KTM dan kartu ATM BCA,biru,Toilet Lantai 2 Gedung A,2026-10-07,10
+RPT-0002,found,kalung,Aksesori,Ada kalung coklat tak bertuan di Mushola Gedung C. necklace dengan pendant mini. Silakan klaim,coklat,Mushola Gedung C,2026-09-20,0
+RPT-0003,lost,dompet pria,Dompet,"Saya baru sadar dompet pria hijau saya tidak ada. Terakhir di Gedung Kuliah Bersama. model lipat dua, ada foto di dalamnya",hijau,Gedung Kuliah Bersama,2026-08-28,0
+RPT-0004,lost,laptop Asus,Laptop,Saya lupa menaruh laptop Asus biru tua di Ruang Seminar. ada goresan kecil di sudut bodi. Sangat butuh,biru tua,Ruang Seminar,2026-09-18,51
+RPT-0005,lost,penggaris,Alat Tulis,Saya yakin menaruh penggaris biru di Taman Kampus tapi sekarang sudah tidak ada. tempat pensil motif bunga,biru,Taman Kampus,2026-07-26,0
+RPT-0006,lost,tas jinjing,Tas,tas jinjing putih saya jatuh atau tertinggal di Kantin Fakultas Teknik. berisi botol minum dan dompet,putih,Kantin Fakultas Teknik,2026-10-03,0
+RPT-0007,lost,kunci loker,Kunci,Kehilangan kunci loker hitam di Lorong Fakultas Teknik pada tanggal 28 Agustus 2026. gantungan kunci karakter doraemon. Sangat penting bagi saya,hitam,Lorong Fakultas Teknik,2026-08-28,0
+RPT-0008,found,pulpen,Alat Tulis,Ada yang kehilangan pulpen merah gelap? Ditemukan di sekitar gazebo kampus. highlighter set berisi enam warna,merah gelap,sekitar gazebo kampus,2026-07-31,62
+RPT-0009,lost,jam tangan,Aksesori,Saya baru sadar jam tangan hijau saya tidak ada. Terakhir di Studio Musik. jam tangan tali kulit,hijau,Studio Musik,2026-07-06,0
+RPT-0010,lost,handphone Xiaomi,Handphone,Saya lupa menaruh handphone Xiaomi kuning di Laboratorium Komputer. masih ada sisa baterai saat hilang. Sangat butuh,kuning,Laboratorium Komputer,2026-08-28,57
+RPT-0011,lost,stabilo,Alat Tulis,"Mohon bantuannya, stabilo berwarna putih tertinggal di UKM Center. buku catatan kulit coklat. Sangat butuh",putih,UKM Center,2026-09-17,0
+RPT-0012,lost,dompet wanita,Dompet,"Lapor kehilangan dompet wanita ungu di Lab Fisika, tanggal 26 September 2026. berisi kartu debit dan e-money",ungu,Lab Fisika,2026-09-26,0
+RPT-0013,lost,handphone Oppo,Handphone,"Mohon bantuan, saya kehilangan handphone Oppo berwarna biru tua di Ruang Seminar. layar ada goresan kecil di pojok",biru tua,Ruang Seminar,2026-07-04,48
+RPT-0014,lost,HP android,Handphone,Saya baru sadar HP android ungu saya tidak ada. Terakhir di Lobby Gedung B. pakai screen protector,ungu,Lobby Gedung B,2026-08-01,0
+RPT-0015,lost,kunci gembok,Kunci,Saya tidak sengaja meninggalkan kunci gembok krem di Fakultas Ekonomi. gantungan kunci berbentuk hati,krem,Fakultas Ekonomi,2026-09-28,4
+RPT-0016,found,dompet wanita,Dompet,Barang ditemukan: dompet wanita kekuningan di Sekretariat BEM. kondisi masih baru dan terawat,kekuningan,Sekretariat BEM,2026-07-26,46
+RPT-0017,lost,KTP,Kartu Identitas,KTP merah saya jatuh atau tertinggal di Parkiran Motor. ada gantungan tali di kartu,merah,Parkiran Motor,2026-08-06,0
+RPT-0018,lost,KTP,Kartu Identitas,"Mohon bantuannya, KTP berwarna hijau tertinggal di Masjid Kampus. kartu masih baru, belum pudar. Sangat butuh",hijau,Masjid Kampus,2026-07-01,0
+RPT-0019,found,MacBook,Laptop,Barang ditemukan: MacBook warna putih di Halte Bus Kampus. beberapa tombol keyboard sedikit bermasalah,warna putih,Halte Bus Kampus,2026-07-13,6
+RPT-0020,found,laptop Asus,Laptop,Ketemu laptop Asus hijau di Lab Kimia tadi sore. di dalam soft case berwarna gelap,hijau,Lab Kimia,2026-07-31,0
+RPT-0021,found,charger laptop,Laptop,Ada yang merasa kehilangan charger laptop putih di sekitar Mushola Gedung C? adaptor asli masih terbawa,putih,Mushola Gedung C,2026-07-13,0
+RPT-0022,found,headset,Barang Lainnya,Ditemukan headset krem dekat Halte Bus Kampus. headphone gaming ada mikrofonnya. Hubungi untuk klaim,krem,Halte Bus Kampus,2026-08-27,0
+RPT-0023,lost,stabilo,Alat Tulis,"Tolong bantu, stabilo saya yang putih tertinggal di Masjid Kampus. pensil mekanik 0.5mm",putih,Masjid Kampus,2026-08-21,26
+RPT-0024,found,kunci sepeda,Kunci,Ada yang kehilangan kunci sepeda kehijauan? Ditemukan di sekitar lapangan. ada gantungan boneka biru di kuncinya,kehijauan,sekitar lapangan,2026-07-07,40
+RPT-0025,lost,dompet kecil,Dompet,"dompet kecil warna kuning milik saya tertinggal di Auditorium. baru dibeli, masih bagus kondisinya",kuning,Auditorium,2026-09-04,55
+RPT-0026,lost,laptop Dell,Laptop,laptop Dell merah marun saya hilang di sekitar Mushola Gedung C. baterai sudah mulai drop,merah marun,Mushola Gedung C,2026-09-09,60
+RPT-0027,found,HP android,Handphone,Barang temuan: HP android berwarna dark blue di sekitar taman. pakai case bening,dark blue,sekitar taman,2026-09-11,75
+RPT-0028,found,dompet kulit,Dompet,Ada dompet kulit biru tua tak bertuan di Studio Musik. resletingnya ada hiasan kecil. Silakan klaim,biru tua,Studio Musik,2026-08-17,0
+RPT-0029,found,gelang,Aksesori,Barang temuan di Gedung Kuliah Bersama: gelang coklat. necklace dengan pendant mini,coklat,Gedung Kuliah Bersama,2026-08-06,0
+RPT-0030,found,handphone Samsung,Handphone,Ketemu handphone Samsung hitam di Gedung Rektorat tadi sore. background-nya gambar kucing,hitam,Gedung Rektorat,2026-09-22,0
+RPT-0031,lost,tas laptop,Tas,tas laptop biru saya jatuh atau tertinggal di Lab Kimia. berisi alat tulis dan charger,biru,Lab Kimia,2026-09-20,0
+RPT-0032,found,kalkulator,Alat Tulis,Lapor penemuan: kalkulator putih di Parkiran Mobil. highlighter set berisi enam warna,putih,Parkiran Mobil,2026-09-02,0
+RPT-0033,found,MacBook,Laptop,"Ada yang merasa kehilangan MacBook pink di sekitar Lapangan Olahraga? ukuran layar sedang, model slim",pink,Lapangan Olahraga,2026-07-22,0
+RPT-0034,lost,syal,Aksesori,syal warna merah milik saya tertinggal di Ruang Kelas A201. jam tangan digital merk Casio,merah,Ruang Kelas A201,2026-08-30,70
+RPT-0035,found,payung,Barang Lainnya,Ada yang merasa kehilangan payung merah marun di sekitar Pos Satpam? headphone gaming ada mikrofonnya,merah marun,Pos Satpam,2026-07-28,0
+RPT-0036,found,ID card,Kartu Identitas,Barang temuan di Ruang Seminar: ID card coklat. di kartu terdapat foto yang sudah agak lama,coklat,Ruang Seminar,2026-07-11,0
+RPT-0037,lost,gantungan kunci,Kunci,"Mohon bantuannya, gantungan kunci berwarna ungu tertinggal di Kantin Fakultas Teknik. kunci motor Yamaha NMAX. Sangat butuh",ungu,Kantin Fakultas Teknik,2026-09-02,0
+RPT-0038,lost,kunci rumah,Kunci,"Mohon bantuannya, kunci rumah berwarna putih tertinggal di Lab Fisika. gantungan kunci souvenir kampus. Sangat butuh",putih,Lab Fisika,2026-08-14,0
+RPT-0039,lost,dompet pria,Dompet,"Siapa yang menemukan dompet pria putih di Kantin Fakultas Teknik? merk Hush Puppies, ada inisial nama",putih,Kantin Fakultas Teknik,2026-10-03,1
+RPT-0040,found,handphone Samsung,Handphone,Siapa punya handphone Samsung abu-abu? Ketemu di Fakultas Ekonomi. terpasang popsocket di bagian belakang,abu-abu,Fakultas Ekonomi,2026-09-18,0
+RPT-0041,lost,gantungan kunci,Kunci,Butuh bantuan! gantungan kunci abu-abu milik saya hilang di Food Court. kunci motor Honda Beat,abu-abu,Food Court,2026-10-01,67
+RPT-0042,found,kunci gembok,Kunci,Lapor penemuan: kunci gembok biru tua di Halte Bus Kampus. tertulis nomor di gantungannya,biru tua,Halte Bus Kampus,2026-08-10,0
+RPT-0043,lost,laptop Lenovo,Laptop,"Tolong, laptop Lenovo saya abu-abu hilang di Fakultas Ekonomi. keyboard ada tombol yang agak lengket. Terakhir terlihat tanggal 10 Juli 2026",abu-abu,Fakultas Ekonomi,2026-07-10,0
+RPT-0044,found,tas laptop,Tas,Siapa punya tas laptop putih? Ketemu di Studio Musik. isinya peralatan tulis dan kabel charger,putih,Studio Musik,2026-10-09,0
+RPT-0045,lost,syal,Aksesori,syal warna abu-abu milik saya tertinggal di Mushola Gedung C. kalung liontin kecil,abu-abu,Mushola Gedung C,2026-08-22,25
+RPT-0046,found,penggaris,Alat Tulis,Lapor penemuan: penggaris merah di Koperasi Mahasiswa. planner daily notebook,merah,Koperasi Mahasiswa,2026-07-14,0
+RPT-0047,lost,tas punggung,Tas,Siapa yang menemukan tas punggung putih di Kantin Pusat? berisi alat tulis dan charger,putih,Kantin Pusat,2026-09-25,56
+RPT-0048,lost,dompet kulit,Dompet,"Tolong bantu, dompet kulit saya yang biru tertinggal di Ruang Kelas A201. baru dibeli, masih bagus kondisinya",biru,Ruang Kelas A201,2026-07-11,19
+RPT-0049,lost,mouse wireless,Barang Lainnya,Butuh bantuan! mouse wireless coklat milik saya hilang di Mushola Gedung C. power bank 10000mAh,coklat,Mushola Gedung C,2026-07-24,27
+RPT-0050,found,penggaris,Alat Tulis,Siapa punya penggaris coklat? Ketemu di Masjid Kampus. notebook spiral ukuran sedang,coklat,Masjid Kampus,2026-08-27,0
+RPT-0051,found,laptop Dell,Laptop,Ditemukan laptop Dell kekuningan di area Lab Kimia. hinge-nya agak kendur,kekuningan,Lab Kimia,2026-08-25,78
+RPT-0052,lost,ikat pinggang,Aksesori,Saya baru sadar ikat pinggang hitam saya tidak ada. Terakhir di Parkiran Motor. cincin polos tanpa ukiran,hitam,Parkiran Motor,2026-07-09,0
+RPT-0053,found,charger laptop,Laptop,Saya menemukan charger laptop berwarna merah tua di sekitar taman. beberapa tombol keyboard sedikit bermasalah,merah tua,sekitar taman,2026-09-26,15
+RPT-0054,found,handphone Vivo,Handphone,Tadi pagi menemukan handphone Vivo berwarna ungu di Ruang Kelas B102. case bermotif marmer,ungu,Ruang Kelas B102,2026-08-27,0
+RPT-0055,found,laptop Dell,Laptop,"Barang temuan di Parkiran Mobil: laptop Dell putih. spesifikasi menengah, performa cukup baik",putih,Parkiran Mobil,2026-08-08,0
+RPT-0056,lost,kalung,Aksesori,Baru saja kehilangan kalung berwarna perak saat berada di Lab Fisika. kalung liontin kecil,perak,Lab Fisika,2026-08-01,79
+RPT-0057,lost,pensil mekanik,Alat Tulis,Baru saja kehilangan pensil mekanik berwarna biru tua saat berada di Lorong Fakultas Teknik. pulpen multiwarna 4 in 1,biru tua,Lorong Fakultas Teknik,2026-09-20,17
+RPT-0058,found,ponsel Samsung,Handphone,Menemukan ponsel Samsung warna pink di gedung MIPA. case bermotif marmer,warna pink,gedung MIPA,2026-10-01,3
+RPT-0059,lost,kartu mahasiswa,Kartu Identitas,"Tolong bantu, kartu mahasiswa saya yang kuning tertinggal di Mushola Gedung C. atas nama mahasiswa teknik informatika",kuning,Mushola Gedung C,2026-09-10,41
+RPT-0060,found,earbuds,Barang Lainnya,"Ada earbuds kebiruan tertinggal di Halte Bus Kampus. earbuds tanpa kabel, koneksi bluetooth. Silakan hubungi untuk klaim",kebiruan,Halte Bus Kampus,2026-09-28,63
+RPT-0061,lost,tempat pensil,Alat Tulis,Hilang: tempat pensil putih dari Kantin Pusat. pulpen multiwarna 4 in 1. Jika menemukan tolong hubungi,putih,Kantin Pusat,2026-07-16,0
+RPT-0062,lost,kunci gembok,Kunci,Tolong bantu cari kunci gembok ungu yang hilang di UKM Center. ada label nomor kamar,ungu,UKM Center,2026-07-20,0
+RPT-0063,found,kunci pintu kos,Kunci,Menemukan kunci pintu kos gelap di Sekretariat BEM. key chain berbahan leather,gelap,Sekretariat BEM,2026-09-16,22
+RPT-0064,lost,laptop HP,Laptop,Saya baru sadar laptop HP biru saya tidak ada. Terakhir di Kantin Fakultas Teknik. charger original bawaan laptop,biru,Kantin Fakultas Teknik,2026-08-10,0
+RPT-0065,found,kunci kos,Kunci,Ada yang merasa kehilangan kunci kos pink di sekitar Laboratorium Komputer? tertulis nomor di gantungannya,pink,Laboratorium Komputer,2026-08-09,0
+RPT-0066,found,kunci sepeda,Kunci,Tadi menemukan kunci sepeda abu muda di sekitar ruang baca perpustakaan. tertulis nomor di gantungannya,abu muda,ruang baca perpustakaan,2026-08-25,76
+RPT-0067,found,totebag,Tas,Tadi menemukan totebag putih susu di sekitar area auditorium. terdapat tempelan stiker di muka tas,putih susu,area auditorium,2026-09-13,11
+RPT-0068,found,portable charger,Barang Lainnya,Menemukan portable charger broken white di area lobby B. USB drive 32 giga bermerk Sandisk,broken white,area lobby B,2026-09-25,45
+RPT-0069,lost,jam tangan,Aksesori,"Tolong, jam tangan saya pink hilang di Lobby Gedung B. cincin polos tanpa ukiran. Terakhir terlihat tanggal 12 Juli 2026",pink,Lobby Gedung B,2026-07-12,0
+RPT-0070,lost,power bank,Barang Lainnya,"Lapor kehilangan power bank abu-abu di Lab Fisika, tanggal 6 Oktober 2026. botol minum tumbler stainless",abu-abu,Lab Fisika,2026-10-06,0
+RPT-0071,found,tas punggung,Tas,Menemukan tas punggung putih bersih di area kantin. isinya peralatan tulis dan kabel charger,putih bersih,area kantin,2026-09-25,56
+RPT-0072,lost,kalkulator,Alat Tulis,Saya tidak sengaja meninggalkan kalkulator biru tua di Pos Satpam. pensil mekanik 0.5mm,biru tua,Pos Satpam,2026-07-21,8
+RPT-0073,lost,dompet kulit,Dompet,"Hilang: dompet kulit biru tua dari Ruang Kelas A201. baru dibeli, masih bagus kondisinya. Jika menemukan tolong hubungi",biru tua,Ruang Kelas A201,2026-08-04,0
+RPT-0074,found,kunci motor,Kunci,Ditemukan kunci motor biru tua dekat Kantin Pusat. kunci kendaraan matic Honda. Hubungi untuk klaim,biru tua,Kantin Pusat,2026-09-30,0
+RPT-0075,lost,gantungan kunci,Kunci,"Tolong bantu, gantungan kunci saya yang hijau tertinggal di Kantin Pusat. gantungan kunci karakter doraemon",hijau,Kantin Pusat,2026-07-19,58
+RPT-0076,found,earphone,Barang Lainnya,Ditemukan earphone abu-abu dekat Lobby Gedung B. headphone gaming ada mikrofonnya. Hubungi untuk klaim,abu-abu,Lobby Gedung B,2026-09-27,0
+RPT-0077,found,tempat pensil,Alat Tulis,Saya menemukan tempat pensil berwarna warna hitam di UKM Center. pencil case bermotif floral,warna hitam,UKM Center,2026-08-12,80
+RPT-0078,found,syal,Aksesori,Saya menemukan syal berwarna biru dongker di Toilet Lantai 2 Gedung A. ring sederhana tanpa motif,biru dongker,Toilet Lantai 2 Gedung A,2026-08-03,34
+RPT-0079,found,buku catatan,Alat Tulis,Lapor penemuan: buku catatan krem di Sekretariat BEM. notebook dengan cover leather,krem,Sekretariat BEM,2026-09-25,0
+RPT-0080,lost,earphone,Barang Lainnya,"Mohon bantuannya, earphone berwarna biru tertinggal di Auditorium. headset gaming dengan mic. Sangat butuh",biru,Auditorium,2026-10-03,0
+RPT-0081,found,tas jinjing,Tas,Saya mau melaporkan penemuan tas jinjing coklat di Ruang Kelas B102. isinya peralatan tulis dan kabel charger,coklat,Ruang Kelas B102,2026-07-07,0
+RPT-0082,lost,earphone,Barang Lainnya,"Lapor kehilangan earphone putih di Masjid Kampus, tanggal 22 Juli 2026. power bank 10000mAh",putih,Masjid Kampus,2026-07-22,0
+RPT-0083,found,dompet panjang,Dompet,Barang temuan di Fakultas Ekonomi: dompet panjang biru tua. ada kartu bank dan kartu elektronik,biru tua,Fakultas Ekonomi,2026-09-14,0
+RPT-0084,found,dompet kain,Dompet,Ditemukan sebuah dompet kain rose yang tertinggal di Lab Kimia. ada kartu mahasiswa dan kartu bank di dalamnya,rose,Lab Kimia,2026-08-24,64
+RPT-0085,lost,laptop Lenovo,Laptop,Saya yakin menaruh laptop Lenovo merah marun di Kantin Fakultas Teknik tapi sekarang sudah tidak ada. keyboard ada tombol yang agak lengket,merah marun,Kantin Fakultas Teknik,2026-07-12,0
+RPT-0086,found,mouse wireless,Barang Lainnya,Tadi menemukan mouse wireless kecoklatan di sekitar Mushola Gedung C. portable charger kapasitas sepuluh ribu,kecoklatan,Mushola Gedung C,2026-07-24,27
+RPT-0087,found,ponsel Oppo,Handphone,Menemukan ponsel Oppo biru gelap di Ruang Seminar. layarnya sedikit lecet di sudut,biru gelap,Ruang Seminar,2026-07-05,48
+RPT-0088,found,kunci kos,Kunci,Menemukan kunci kos biru tua yang ditinggalkan di UKM Center. gagang kunci diberi tanda warna,biru tua,UKM Center,2026-09-06,0
+RPT-0089,lost,handphone Oppo,Handphone,handphone Oppo warna merah milik saya tertinggal di Lab Kimia. masih ada sisa baterai saat hilang,merah,Lab Kimia,2026-08-06,30
+RPT-0090,found,laptop Lenovo,Laptop,Ada laptop Lenovo biru tua tak bertuan di Ruang Kelas A201. sedikit lecet di bagian pojok casing. Silakan klaim,biru tua,Ruang Kelas A201,2026-09-06,0
+RPT-0091,lost,handphone Vivo,Handphone,Saya baru sadar handphone Vivo merah marun saya tidak ada. Terakhir di Food Court. layar ada goresan kecil di pojok,merah marun,Food Court,2026-09-22,0
+RPT-0092,found,botol air,Barang Lainnya,Ketemu botol air violet di gedung ekonomi. USB drive 32 giga bermerk Sandisk. Silakan klaim,violet,gedung ekonomi,2026-09-09,9
+RPT-0093,found,backpack,Tas,Barang temuan: backpack berwarna navy di gedung MIPA. terdapat tempelan stiker di muka tas,navy,gedung MIPA,2026-08-23,47
+RPT-0094,found,power bank,Barang Lainnya,"Tadi pagi menemukan power bank berwarna hitam di Pos Satpam. earbuds tanpa kabel, koneksi bluetooth",hitam,Pos Satpam,2026-08-09,0
+RPT-0095,lost,kunci sepeda,Kunci,Saya tidak sengaja meninggalkan kunci sepeda hijau di Lapangan Olahraga. gantungan kunci karakter doraemon,hijau,Lapangan Olahraga,2026-07-06,40
+RPT-0096,lost,stabilo,Alat Tulis,stabilo perak saya jatuh atau tertinggal di Halte Bus Kampus. tempat pensil motif bunga,perak,Halte Bus Kampus,2026-08-19,0
+RPT-0097,lost,tempat pensil,Alat Tulis,"Lapor kehilangan tempat pensil merah marun di Toilet Lantai 2 Gedung A, tanggal 8 Oktober 2026. buku agenda harian",merah marun,Toilet Lantai 2 Gedung A,2026-10-08,0
+RPT-0098,found,kartu mahasiswa,Kartu Identitas,Ada yang kehilangan kartu mahasiswa warna kuning? Ditemukan di Mushola Gedung C. milik mahasiswa jurusan IT,warna kuning,Mushola Gedung C,2026-09-12,41
+RPT-0099,found,buku catatan,Alat Tulis,"Ditemukan sebuah buku catatan biru gelap yang tertinggal di lab kom. pen bermerk Parker, warna metalik",biru gelap,lab kom,2026-10-08,71
+RPT-0100,lost,iPhone,Handphone,"Saya baru sadar iPhone krem saya tidak ada. Terakhir di Lab Fisika. layar 6.5 inci, agak besar",krem,Lab Fisika,2026-07-05,0
+RPT-0101,found,payung,Barang Lainnya,Tadi menemukan payung merah terang di sekitar sekitar gazebo kampus. mouse tanpa kabel bermerk Logitech,merah terang,sekitar gazebo kampus,2026-07-28,54
+RPT-0102,lost,tas ransel,Tas,Saya tidak sengaja meninggalkan tas ransel emas di Halte Bus Kampus. berisi buku kuliah dan laptop,emas,Halte Bus Kampus,2026-08-31,65
+RPT-0103,lost,dompet wanita,Dompet,"Saya tidak sengaja meninggalkan dompet wanita kuning di Sekretariat BEM. baru dibeli, masih bagus kondisinya",kuning,Sekretariat BEM,2026-07-26,46
+RPT-0104,lost,charger laptop,Laptop,Baru saja kehilangan charger laptop berwarna emas saat berada di Kantin Pusat. charger original bawaan laptop,emas,Kantin Pusat,2026-08-21,33
+RPT-0105,lost,pulpen,Alat Tulis,"Lapor kehilangan pulpen coklat di Gedung Rektorat, tanggal 26 Juli 2026. tempat pensil motif bunga",coklat,Gedung Rektorat,2026-07-26,0
+RPT-0106,lost,kunci sepeda,Kunci,Saya yakin menaruh kunci sepeda abu-abu di Gedung Rektorat tapi sekarang sudah tidak ada. ada 3 anak kunci,abu-abu,Gedung Rektorat,2026-07-04,0
+RPT-0107,lost,KTP,Kartu Identitas,"Saya baru sadar KTP biru saya tidak ada. Terakhir di Parkiran Motor. KTP asli, bukan fotokopi",biru,Parkiran Motor,2026-10-09,0
+RPT-0108,found,tas untuk laptop,Tas,Saya menemukan tas untuk laptop berwarna merah terang di Mushola Gedung C. terdapat kantong rahasia di bagian punggung,merah terang,Mushola Gedung C,2026-07-30,20
+RPT-0109,lost,iPhone,Handphone,Saya baru sadar iPhone hijau saya tidak ada. Terakhir di Toilet Lantai 2 Gedung A. ada stiker di belakang casing,hijau,Toilet Lantai 2 Gedung A,2026-09-24,0
+RPT-0110,found,kalung,Aksesori,Siapa punya kalung perak? Ketemu di Lorong Fakultas Teknik. bracelet dari benang berwarna-warni,perak,Lorong Fakultas Teknik,2026-07-21,0
+RPT-0111,lost,kartu akses gedung,Kartu Identitas,Saya baru sadar kartu akses gedung merah marun saya tidak ada. Terakhir di Kantin Pusat. kartu dengan foto lama,merah marun,Kantin Pusat,2026-08-09,0
+RPT-0112,found,kunci gembok,Kunci,Ditemukan kunci gembok warna krem muda tertinggal di FE. keychain berbentuk love,krem muda,FE,2026-09-28,4
+RPT-0113,lost,syal,Aksesori,Apakah ada yang menemukan syal coklat di Lab Kimia? topi baseball dengan logo. Mohon hubungi saya,coklat,Lab Kimia,2026-07-01,16
+RPT-0114,found,MacBook,Laptop,Saya mau melaporkan penemuan MacBook hitam di Ruang Seminar. adaptor asli masih terbawa,hitam,Ruang Seminar,2026-09-24,0
+RPT-0115,lost,MacBook,Laptop,Kehilangan MacBook warna coklat sekitar area Studio Musik. baterai sudah mulai drop,coklat,Studio Musik,2026-08-01,24
+RPT-0116,found,tas jinjing,Tas,Ada yang merasa kehilangan tas jinjing putih di sekitar Kantin Pusat? strap-nya sudah mulai pudar,putih,Kantin Pusat,2026-10-01,0
+RPT-0117,found,pensil mekanik,Alat Tulis,Ditemukan pensil mekanik warna biru gelap tertinggal di Lorong Fakultas Teknik. pen yang bisa ganti warna,biru gelap,Lorong Fakultas Teknik,2026-09-20,17
+RPT-0118,lost,smartphone,Handphone,"Mohon bantuan, saya kehilangan smartphone berwarna merah marun di Sekretariat BEM. wallpaper foto kucing",merah marun,Sekretariat BEM,2026-09-01,66
+RPT-0119,lost,laptop HP,Laptop,"Mohon bantuannya, laptop HP berwarna abu-abu tertinggal di Masjid Kampus. ada goresan kecil di sudut bodi. Sangat butuh",abu-abu,Masjid Kampus,2026-09-22,0
+RPT-0120,lost,tas ransel,Tas,"Mohon bantuan, saya kehilangan tas ransel berwarna biru tua di Fakultas MIPA. ada stiker di bagian depan",biru tua,Fakultas MIPA,2026-08-21,47
+RPT-0121,lost,kabel charger,Barang Lainnya,"Mohon bantuannya, kabel charger berwarna coklat tertinggal di Fakultas MIPA. earphone wireless bluetooth. Sangat butuh",coklat,Fakultas MIPA,2026-09-16,0
+RPT-0122,lost,tas laptop,Tas,tas laptop warna merah milik saya tertinggal di Mushola Gedung C. ada saku tersembunyi di belakang,merah,Mushola Gedung C,2026-07-28,20
+RPT-0123,lost,kunci kos,Kunci,Saya kehilangan kunci kos hitam di Sekretariat BEM. gantungan kunci dari kulit,hitam,Sekretariat BEM,2026-09-14,22
+RPT-0124,found,key ring,Kunci,Ditemukan sebuah key ring keabu-abuan yang tertinggal di food court kampus. kunci kendaraan matic Honda,keabu-abuan,food court kampus,2026-10-03,67
+RPT-0125,lost,tempat pensil,Alat Tulis,Butuh bantuan! tempat pensil hitam milik saya hilang di UKM Center. tempat pensil motif bunga,hitam,UKM Center,2026-08-11,80
+RPT-0126,lost,kunci motor,Kunci,"Kehilangan kunci motor warna ungu sekitar area Mushola Gedung C. kunci duplikat, bentuknya sederhana",ungu,Mushola Gedung C,2026-08-14,49
+RPT-0127,found,kartu mahasiswa,Kartu Identitas,"Tadi pagi menemukan kartu mahasiswa berwarna hijau di Gedung Rektorat. ada dua kartu sekaligus, perpus dan mahasiswa",hijau,Gedung Rektorat,2026-08-28,0
+RPT-0128,found,gantungan kunci,Kunci,Ditemukan gantungan kunci hitam dekat Koperasi Mahasiswa. keychain berbentuk love. Hubungi untuk klaim,hitam,Koperasi Mahasiswa,2026-09-17,0
+RPT-0129,found,flashdisk,Barang Lainnya,Lapor penemuan: flashdisk kuning di Mushola Gedung C. tumbler dari bahan stainless steel,kuning,Mushola Gedung C,2026-07-13,0
+RPT-0130,lost,syal,Aksesori,Saya lupa menaruh syal biru tua di Toilet Lantai 2 Gedung A. cincin polos tanpa ukiran. Sangat butuh,biru tua,Toilet Lantai 2 Gedung A,2026-08-03,34
+RPT-0131,lost,HP android,Handphone,Saya yakin menaruh HP android hitam di Lab Kimia tapi sekarang sudah tidak ada. dengan casing transparan,hitam,Lab Kimia,2026-08-22,0
+RPT-0132,found,SIM,Kartu Identitas,Ditemukan SIM warna kuning di area FE. kartu identitas original,warna kuning,FE,2026-07-10,32
+RPT-0133,lost,laptop HP,Laptop,"Tolong, laptop HP saya merah hilang di Food Court. ada engsel yang sedikit longgar. Terakhir terlihat tanggal 17 Juli 2026",merah,Food Court,2026-07-17,0
+RPT-0134,lost,headset,Barang Lainnya,Saya baru sadar headset coklat saya tidak ada. Terakhir di Studio Musik. botol minum tumbler stainless,coklat,Studio Musik,2026-07-29,0
+RPT-0135,found,kunci loker,Kunci,Menemukan kunci loker abu-abu yang ditinggalkan di UKM Center. tertulis nomor di gantungannya,abu-abu,UKM Center,2026-09-19,0
+RPT-0136,lost,HP android,Handphone,Saya tidak sengaja meninggalkan HP android biru tua di Taman Kampus. dengan casing transparan,biru tua,Taman Kampus,2026-09-11,75
+RPT-0137,lost,SIM,Kartu Identitas,Kehilangan SIM kuning di UKM Center pada tanggal 9 Agustus 2026. ada gantungan tali di kartu. Sangat penting bagi saya,kuning,UKM Center,2026-08-09,0
+RPT-0138,lost,kalung,Aksesori,kalung warna biru tua milik saya tertinggal di Lobby Gedung B. jam tangan tali kulit,biru tua,Lobby Gedung B,2026-08-11,52
+RPT-0139,lost,cincin,Aksesori,Saya yakin menaruh cincin perak di Gedung Rektorat tapi sekarang sudah tidak ada. topi bucket hat polos,perak,Gedung Rektorat,2026-10-09,0
+RPT-0140,lost,tas selempang,Tas,"Mohon bantuannya, tas selempang berwarna merah tertinggal di Ruang Kelas A201. berisi botol minum dan dompet. Sangat butuh",merah,Ruang Kelas A201,2026-10-06,0
+RPT-0141,found,smartphone,Handphone,Menemukan smartphone merah gelap di Sekretariat BEM. background-nya gambar kucing,merah gelap,Sekretariat BEM,2026-09-02,66
+RPT-0142,found,dompet kecil,Dompet,Barang temuan: dompet kecil berwarna warna kuning di aula. kondisi masih baru dan terawat,warna kuning,aula,2026-09-05,55
+RPT-0143,found,kalung,Aksesori,Barang ditemukan: kalung biru dongker di area lobby B. arloji dengan strap leather,biru dongker,area lobby B,2026-08-11,52
+RPT-0144,found,dompet lipat,Dompet,Ada yang merasa kehilangan dompet lipat putih di sekitar Halte Bus Kampus? terdapat saku koin dengan resleting,putih,Halte Bus Kampus,2026-09-18,0
+RPT-0145,lost,flashdisk,Barang Lainnya,flashdisk hijau saya jatuh atau tertinggal di Studio Musik. flashdisk 32GB merk Sandisk,hijau,Studio Musik,2026-08-30,0
+RPT-0146,found,kartu akses gedung,Kartu Identitas,"Siapa punya kartu akses gedung pink? Ketemu di Ruang Kelas A201. ada dua kartu sekaligus, perpus dan mahasiswa",pink,Ruang Kelas A201,2026-08-20,0
+RPT-0147,lost,pensil mekanik,Alat Tulis,pensil mekanik hijau saya hilang di sekitar Parkiran Mobil. tempat pensil motif bunga,hijau,Parkiran Mobil,2026-07-31,44
+RPT-0148,found,sling bag,Tas,Ditemukan sebuah sling bag keunguan yang tertinggal di Mushola Gedung C. ada buku dan laptop di dalamnya,keunguan,Mushola Gedung C,2026-07-07,2
+RPT-0149,found,laptop Acer,Laptop,Ditemukan laptop Acer abu-abu dekat Kantin Pusat. hinge-nya agak kendur. Hubungi untuk klaim,abu-abu,Kantin Pusat,2026-08-26,0
+RPT-0150,lost,dompet wanita,Dompet,"Lapor kehilangan dompet wanita abu-abu di Sekretariat BEM, tanggal 20 September 2026. ada resleting di bagian koin",abu-abu,Sekretariat BEM,2026-09-20,0
+RPT-0151,found,kartu akses gedung,Kartu Identitas,Ditemukan sebuah kartu akses gedung hitam pekat yang tertinggal di sekitar kantin pusat. kartu dengan lanyard terpasang,hitam pekat,sekitar kantin pusat,2026-07-17,59
+RPT-0152,found,HP Oppo,Handphone,Ditemukan HP Oppo navy di area Pos Satpam. case bermotif marmer,navy,Pos Satpam,2026-08-26,21
+RPT-0153,lost,pensil mekanik,Alat Tulis,Kehilangan pensil mekanik merah marun di Studio Musik pada tanggal 27 Agustus 2026. buku agenda harian. Sangat penting bagi saya,merah marun,Studio Musik,2026-08-27,0
+RPT-0154,lost,charger laptop,Laptop,"Mohon bantuan, saya kehilangan charger laptop berwarna merah marun di Taman Kampus. keyboard ada tombol yang agak lengket",merah marun,Taman Kampus,2026-09-26,15
+RPT-0155,found,tas selempang,Tas,Ditemukan tas selempang putih dekat Toilet Lantai 2 Gedung A. isinya peralatan tulis dan kabel charger. Hubungi untuk klaim,putih,Toilet Lantai 2 Gedung A,2026-09-23,0
+RPT-0156,lost,earphone,Barang Lainnya,earphone biru milik saya tidak ada saat kembali ke Lobby Gedung B. earphone wireless bluetooth,biru,Lobby Gedung B,2026-09-11,0
+RPT-0157,found,laptop Dell,Laptop,Tadi menemukan laptop Dell merah tua di sekitar Mushola Gedung C. daya tahan baterainya agak menurun,merah tua,Mushola Gedung C,2026-09-10,60
+RPT-0158,found,backpack,Tas,Barang temuan: backpack berwarna keemasan di Halte Bus Kampus. ada buku dan laptop di dalamnya,keemasan,Halte Bus Kampus,2026-09-01,65
+RPT-0159,lost,earphone,Barang Lainnya,Butuh bantuan! earphone pink milik saya hilang di Perpustakaan Pusat. kabel charger type C,pink,Perpustakaan Pusat,2026-09-15,18
+RPT-0160,found,tas punggung,Tas,"Ada tas punggung hitam tak bertuan di Food Court. bermerk outdoor, ada label nama. Silakan klaim",hitam,Food Court,2026-08-05,0
+RPT-0161,lost,kartu mahasiswa,Kartu Identitas,kartu mahasiswa hitam saya hilang di sekitar Ruang Kelas A201. kartu akses gedung laboratorium,hitam,Ruang Kelas A201,2026-09-21,68
+RPT-0162,lost,ID card,Kartu Identitas,Kehilangan ID card merah marun di Fakultas Ekonomi pada tanggal 1 Oktober 2026. ada gantungan tali di kartu. Sangat penting bagi saya,merah marun,Fakultas Ekonomi,2026-10-01,0
+RPT-0163,lost,handphone Oppo,Handphone,"Kehilangan handphone Oppo kuning di Lorong Fakultas Teknik pada tanggal 5 Agustus 2026. layar 6.5 inci, agak besar. Sangat penting bagi saya",kuning,Lorong Fakultas Teknik,2026-08-05,0
+RPT-0164,lost,dompet lipat,Dompet,Saya kehilangan dompet lipat kuning di Lorong Fakultas Teknik. ada gantungan kecil di resleting,kuning,Lorong Fakultas Teknik,2026-09-17,37
+RPT-0165,found,kalung,Aksesori,Barang temuan: kalung berwarna keabu-abuan di GKB. ring sederhana tanpa motif,keabu-abuan,GKB,2026-08-16,43
+RPT-0166,lost,tas laptop,Tas,Kehilangan tas laptop biru tua di Ruang Seminar pada tanggal 11 September 2026. berisi buku kuliah dan laptop. Sangat penting bagi saya,biru tua,Ruang Seminar,2026-09-11,0
+RPT-0167,lost,laptop Dell,Laptop,"Mohon bantuan, saya kehilangan laptop Dell berwarna kuning di Lab Kimia. ada engsel yang sedikit longgar",kuning,Lab Kimia,2026-08-25,78
+RPT-0168,found,dompet bifold,Dompet,Siapa pemilik dompet bifold warna ungu ini? Ditemukan di taman. ada uang tunai dan kartu-kartu,warna ungu,taman,2026-10-10,73
+RPT-0169,found,botol minum,Barang Lainnya,"Lapor penemuan: botol minum hitam di Gedung Rektorat. earbuds tanpa kabel, koneksi bluetooth",hitam,Gedung Rektorat,2026-07-28,0
+RPT-0170,lost,tas selempang,Tas,"Tolong bantu, tas selempang saya yang ungu tertinggal di Mushola Gedung C. berisi buku kuliah dan laptop",ungu,Mushola Gedung C,2026-07-05,2
+RPT-0171,found,kunci rumah,Kunci,Ada kunci rumah biru tua tak bertuan di Studio Musik. terdiri dari tiga buah kunci. Silakan klaim,biru tua,Studio Musik,2026-07-09,0
+RPT-0172,found,ikat pinggang,Aksesori,Barang temuan di Auditorium: ikat pinggang kuning. bucket hat tanpa motif,kuning,Auditorium,2026-08-13,0
+RPT-0173,found,MacBook,Laptop,Ditemukan MacBook kecoklatan di area Studio Musik. daya tahan baterainya agak menurun,kecoklatan,Studio Musik,2026-08-01,24
+RPT-0174,lost,penggaris,Alat Tulis,Tolong bantu cari penggaris merah marun yang hilang di Toilet Lantai 2 Gedung A. buku agenda harian,merah marun,Toilet Lantai 2 Gedung A,2026-08-18,0
+RPT-0175,found,cincin,Aksesori,Tadi pagi menemukan cincin berwarna perak di Koperasi Mahasiswa. bracelet dari benang berwarna-warni,perak,Koperasi Mahasiswa,2026-08-14,0
+RPT-0176,found,tas ransel,Tas,"Tadi pagi menemukan tas ransel berwarna ungu di Ruang Kelas B102. bermerk outdoor, ada label nama",ungu,Ruang Kelas B102,2026-10-06,0
+RPT-0177,found,ID card,Kartu Identitas,Barang ditemukan: ID card putih bersih di ruang kuliah GKB. kartu mahasiswa periode genap tahun ini,putih bersih,ruang kuliah GKB,2026-08-13,23
+RPT-0178,found,kunci rumah,Kunci,Barang temuan di Halte Bus Kampus: kunci rumah ungu. kunci kendaraan matic Honda,ungu,Halte Bus Kampus,2026-07-20,0
+RPT-0179,lost,KTP,Kartu Identitas,Apakah ada yang menemukan KTP putih di Gedung Kuliah Bersama? KTM semester genap 2026. Mohon hubungi saya,putih,Gedung Kuliah Bersama,2026-08-12,23
+RPT-0180,found,handphone Samsung,Handphone,Tadi pagi menemukan handphone Samsung berwarna merah marun di Lab Kimia. di belakang case ada tempelan stiker,merah marun,Lab Kimia,2026-07-05,0
+RPT-0181,lost,laptop HP,Laptop,Saya tidak sengaja meninggalkan laptop HP hijau di Toilet Lantai 2 Gedung A. baterai sudah mulai drop,hijau,Toilet Lantai 2 Gedung A,2026-07-28,69
+RPT-0182,lost,laptop Asus,Laptop,"Hilang: laptop Asus putih dari Kantin Pusat. RAM 8GB, SSD 512GB. Jika menemukan tolong hubungi",putih,Kantin Pusat,2026-09-07,0
+RPT-0183,lost,HP android,Handphone,"Lapor kehilangan HP android emas di Lab Kimia, tanggal 12 Juli 2026. wallpaper foto kucing",emas,Lab Kimia,2026-07-12,0
+RPT-0184,found,payung,Barang Lainnya,Ketemu payung perak di UKM Center tadi sore. USB drive 32 giga bermerk Sandisk,perak,UKM Center,2026-08-06,0
+RPT-0185,lost,handphone Xiaomi,Handphone,Apakah ada yang menemukan handphone Xiaomi merah di Parkiran Motor? casing motif marble. Mohon hubungi saya,merah,Parkiran Motor,2026-08-01,12
+RPT-0186,found,kalkulator,Alat Tulis,Saya menemukan kalkulator berwarna biru gelap di Pos Satpam. mechanical pencil ukuran halus,biru gelap,Pos Satpam,2026-07-23,8
+RPT-0187,found,laptop Acer,Laptop,Siapa punya laptop Acer pink? Ketemu di Koperasi Mahasiswa. beberapa tombol keyboard sedikit bermasalah,pink,Koperasi Mahasiswa,2026-08-24,0
+RPT-0188,lost,KTM,Kartu Identitas,Saya yakin menaruh KTM ungu di Laboratorium Komputer tapi sekarang sudah tidak ada. kartu perpustakaan dan KTM sekaligus,ungu,Laboratorium Komputer,2026-07-31,0
+RPT-0189,lost,MacBook,Laptop,MacBook hitam saya hilang di sekitar Pos Satpam. keyboard ada tombol yang agak lengket,hitam,Pos Satpam,2026-09-13,42
+RPT-0190,lost,kalung,Aksesori,"Tolong, kalung saya merah marun hilang di Ruang Seminar. kalung liontin kecil. Terakhir terlihat tanggal 15 Juli 2026",merah marun,Ruang Seminar,2026-07-15,0
+RPT-0191,lost,laptop Acer,Laptop,Hilang: laptop Acer emas dari Studio Musik. dalam tas laptop hitam. Jika menemukan tolong hubungi,emas,Studio Musik,2026-07-14,0
+RPT-0192,found,smartphone,Handphone,Menemukan smartphone biru tua yang ditinggalkan di Kantin Fakultas Teknik. di belakang case ada tempelan stiker,biru tua,Kantin Fakultas Teknik,2026-09-16,0
+RPT-0193,found,dompet lipat,Dompet,Ditemukan dompet lipat pink dekat Pos Satpam. ada surat-surat kendaraan di dalamnya. Hubungi untuk klaim,pink,Pos Satpam,2026-08-20,0
+RPT-0194,found,kalung,Aksesori,Tadi menemukan kalung warna krem di sekitar area kantin. cap dengan emblem di depan,warna krem,area kantin,2026-09-21,61
+RPT-0195,lost,dompet pria,Dompet,"Saya yakin menaruh dompet pria ungu di Mushola Gedung C tapi sekarang sudah tidak ada. merk Hush Puppies, ada inisial nama",ungu,Mushola Gedung C,2026-07-15,0
+RPT-0196,found,mouse wireless,Barang Lainnya,Siapa punya mouse wireless hitam? Ketemu di Pos Satpam. USB flash drive model geser,hitam,Pos Satpam,2026-09-09,0
+RPT-0197,lost,handphone Oppo,Handphone,Butuh bantuan! handphone Oppo biru tua milik saya hilang di Pos Satpam. casing motif marble,biru tua,Pos Satpam,2026-08-26,21
+RPT-0198,found,laptop HP,Laptop,Menemukan laptop HP krem yang ditinggalkan di Parkiran Mobil. hinge-nya agak kendur,krem,Parkiran Mobil,2026-10-09,0
+RPT-0199,found,dompet pria,Dompet,"Ditemukan dompet pria putih bersih di area kantin FT. bermerk, ada ukiran huruf di depan",putih bersih,kantin FT,2026-10-05,1
+RPT-0200,found,pensil mekanik,Alat Tulis,Saya mau melaporkan penemuan pensil mekanik hitam di Gazebo Kampus. mechanical pencil ukuran halus,hitam,Gazebo Kampus,2026-08-15,0
+RPT-0201,lost,stabilo,Alat Tulis,Tolong bantu cari stabilo merah marun yang hilang di Ruang Kelas A201. buku catatan kulit coklat,merah marun,Ruang Kelas A201,2026-09-21,0
+RPT-0202,lost,laptop Asus,Laptop,Hilang: laptop Asus merah dari Studio Musik. charger original bawaan laptop. Jika menemukan tolong hubungi,merah,Studio Musik,2026-07-15,0
+RPT-0203,found,HP android,Handphone,Ditemukan HP android pink dekat Lapangan Olahraga. di belakang case ada tempelan stiker. Hubungi untuk klaim,pink,Lapangan Olahraga,2026-07-01,0
+RPT-0204,lost,kalung,Aksesori,Apakah ada yang menemukan kalung krem di Kantin Pusat? topi baseball dengan logo. Mohon hubungi saya,krem,Kantin Pusat,2026-09-20,61
+RPT-0205,found,laptop HP,Laptop,Ada laptop HP merah marun tak bertuan di Gazebo Kampus. daya tahan baterainya agak menurun. Silakan klaim,merah marun,Gazebo Kampus,2026-09-28,0
+RPT-0206,lost,kalung,Aksesori,Saya lupa menaruh kalung abu-abu di Gedung Kuliah Bersama. cincin polos tanpa ukiran. Sangat butuh,abu-abu,Gedung Kuliah Bersama,2026-08-15,43
+RPT-0207,found,kalkulator,Alat Tulis,Barang temuan: kalkulator berwarna biru dongker di Halte Bus Kampus. pencil case bermotif floral,biru dongker,Halte Bus Kampus,2026-09-26,53
+RPT-0208,found,kunci loker,Kunci,Ada yang merasa kehilangan kunci loker merah marun di sekitar Toilet Lantai 2 Gedung A? kunci kendaraan matic Honda,merah marun,Toilet Lantai 2 Gedung A,2026-07-25,0
+RPT-0209,lost,kartu mahasiswa,Kartu Identitas,Saya baru sadar kartu mahasiswa krem saya tidak ada. Terakhir di Masjid Kampus. kartu akses gedung laboratorium,krem,Masjid Kampus,2026-07-10,0
+RPT-0210,found,ponsel Oppo,Handphone,Ketemu ponsel Oppo merah terang di Lab Kimia. HP masih dalam keadaan menyala. Silakan klaim,merah terang,Lab Kimia,2026-08-08,30
+RPT-0211,found,handphone Oppo,Handphone,Tadi pagi menemukan handphone Oppo berwarna perak di Parkiran Mobil. layarnya sedikit lecet di sudut,perak,Parkiran Mobil,2026-08-25,0
+RPT-0212,found,sling bag,Tas,Menemukan sling bag warna kuning di Studio Musik. strap-nya sudah mulai pudar,warna kuning,Studio Musik,2026-07-29,29
+RPT-0213,found,dompet wanita,Dompet,"Ketemu dompet wanita pink di Pos Satpam tadi sore. bermerk, ada ukiran huruf di depan",pink,Pos Satpam,2026-07-15,0
+RPT-0214,found,handphone Xiaomi,Handphone,Ditemukan handphone Xiaomi merah dekat Gedung Kuliah Bersama. case bermotif marmer. Hubungi untuk klaim,merah,Gedung Kuliah Bersama,2026-07-07,0
+RPT-0215,lost,kacamata,Aksesori,"Tolong bantu, kacamata saya yang hitam tertinggal di Sekretariat BEM. topi baseball dengan logo",hitam,Sekretariat BEM,2026-10-07,7
+RPT-0216,lost,SIM,Kartu Identitas,"Tolong bantu, SIM saya yang kuning tertinggal di Fakultas Ekonomi. KTP asli, bukan fotokopi",kuning,Fakultas Ekonomi,2026-07-08,32
+RPT-0217,found,key ring,Kunci,Menemukan key ring warna coklat di area MIPA. key chain berbahan leather,warna coklat,area MIPA,2026-08-07,31
+RPT-0218,lost,kunci sepeda,Kunci,"Tolong bantu, kunci sepeda saya yang abu-abu tertinggal di Perpustakaan Pusat. ada label nomor kamar",abu-abu,Perpustakaan Pusat,2026-08-23,76
+RPT-0219,found,handphone Oppo,Handphone,Saya mau melaporkan penemuan handphone Oppo kuning di Ruang Kelas A201. pakai case bening,kuning,Ruang Kelas A201,2026-09-15,0
+RPT-0220,found,earphone,Barang Lainnya,Ada earphone krem tak bertuan di Pos Satpam. payung ukuran besar tanpa motif. Silakan klaim,krem,Pos Satpam,2026-09-04,0
+RPT-0221,found,kartu akses gedung,Kartu Identitas,Menemukan kartu akses gedung violet di ruang lab komputer. card khusus untuk masuk lab,violet,ruang lab komputer,2026-08-21,14
+RPT-0222,found,headset kecil,Barang Lainnya,Barang ditemukan: headset kecil merah muda di perpustakaan. kabel USB-C untuk pengisian daya,merah muda,perpustakaan,2026-09-16,18
+RPT-0223,lost,topi,Aksesori,topi putih milik saya tidak ada saat kembali ke Perpustakaan Pusat. jam tangan tali kulit,putih,Perpustakaan Pusat,2026-09-02,0
+RPT-0224,found,kacamata,Aksesori,Ada yang merasa kehilangan kacamata krem di sekitar Pos Satpam? arloji dengan strap leather,krem,Pos Satpam,2026-08-25,0
+RPT-0225,found,tempat pensil,Alat Tulis,Ada yang merasa kehilangan tempat pensil hijau di sekitar Gedung Kuliah Bersama? pencil case bermotif floral,hijau,Gedung Kuliah Bersama,2026-09-16,0
+RPT-0226,found,kalkulator,Alat Tulis,Ditemukan sebuah kalkulator warna coklat yang tertinggal di Lorong Fakultas Teknik. mechanical pencil ukuran halus,warna coklat,Lorong Fakultas Teknik,2026-08-29,35
+RPT-0227,found,laptop HP,Laptop,Saya menemukan laptop HP berwarna hijau tua di Toilet Lantai 2 Gedung A. daya tahan baterainya agak menurun,hijau tua,Toilet Lantai 2 Gedung A,2026-07-29,69
+RPT-0228,lost,dompet kain,Dompet,dompet kain krem milik saya tidak ada saat kembali ke UKM Center. ada resleting di bagian koin,krem,UKM Center,2026-07-25,0
+RPT-0229,found,stabilo,Alat Tulis,Barang temuan: stabilo berwarna putih bersih di tempat wudu masjid. mechanical pencil ukuran halus,putih bersih,tempat wudu masjid,2026-08-21,26
+RPT-0230,lost,dompet wanita,Dompet,Saya kehilangan dompet wanita emas di Ruang Kelas B102. ada gantungan kecil di resleting,emas,Ruang Kelas B102,2026-07-07,28
+RPT-0231,lost,pulpen,Alat Tulis,Saya tidak sengaja meninggalkan pulpen merah marun di Gazebo Kampus. set stabilo 6 warna,merah marun,Gazebo Kampus,2026-07-31,62
+RPT-0232,found,flashdisk,Barang Lainnya,Ada flashdisk krem tak bertuan di Ruang Kelas A201. mouse tanpa kabel bermerk Logitech. Silakan klaim,krem,Ruang Kelas A201,2026-10-02,0
+RPT-0233,lost,handphone Oppo,Handphone,Saya baru sadar handphone Oppo ungu saya tidak ada. Terakhir di Mushola Gedung C. ada pop socket di belakang,ungu,Mushola Gedung C,2026-07-22,0
+RPT-0234,found,kartu akses gedung,Kartu Identitas,Ada kartu akses gedung pink tak bertuan di Pos Satpam. card khusus untuk masuk lab. Silakan klaim,pink,Pos Satpam,2026-07-31,0
+RPT-0235,found,ponsel Xiaomi,Handphone,Ada ponsel Xiaomi kuning cerah tertinggal di lab kom. HP masih dalam keadaan menyala. Silakan hubungi untuk klaim,kuning cerah,lab kom,2026-08-30,57
+RPT-0236,found,pensil mekanik,Alat Tulis,"Barang temuan di Taman Kampus: pensil mekanik coklat. pen bermerk Parker, warna metalik",coklat,Taman Kampus,2026-09-23,0
+RPT-0237,found,tempat pensil,Alat Tulis,Siapa punya tempat pensil merah marun? Ketemu di Kantin Fakultas Teknik. notebook spiral ukuran sedang,merah marun,Kantin Fakultas Teknik,2026-08-15,0
+RPT-0238,lost,kartu mahasiswa,Kartu Identitas,Saya yakin menaruh kartu mahasiswa ungu di Studio Musik tapi sekarang sudah tidak ada. atas nama mahasiswa teknik informatika,ungu,Studio Musik,2026-08-07,0
+RPT-0239,lost,KTP,Kartu Identitas,"Saya yakin menaruh KTP putih di Auditorium tapi sekarang sudah tidak ada. kartu masih baru, belum pudar",putih,Auditorium,2026-09-14,0
+RPT-0240,lost,MacBook,Laptop,"Mohon bantuan, saya kehilangan MacBook berwarna putih di Halte Bus Kampus. keyboard ada tombol yang agak lengket",putih,Halte Bus Kampus,2026-07-11,6
+RPT-0241,lost,tas selempang,Tas,"Tolong bantu, tas selempang saya yang perak tertinggal di Parkiran Motor. ada gantungan boneka kecil",perak,Parkiran Motor,2026-08-03,38
+RPT-0242,lost,kunci rumah,Kunci,Saya yakin menaruh kunci rumah ungu di Gazebo Kampus tapi sekarang sudah tidak ada. ada label nomor kamar,ungu,Gazebo Kampus,2026-09-27,0
+RPT-0243,found,dompet lipat,Dompet,Barang temuan di Koperasi Mahasiswa: dompet lipat hitam. ada surat-surat kendaraan di dalamnya,hitam,Koperasi Mahasiswa,2026-09-08,0
+RPT-0244,found,handphone Vivo,Handphone,Ada yang merasa kehilangan handphone Vivo hijau di sekitar Taman Kampus? di belakang case ada tempelan stiker,hijau,Taman Kampus,2026-08-03,0
+RPT-0245,lost,tas jinjing,Tas,"Lapor kehilangan tas jinjing krem di Mushola Gedung C, tanggal 10 September 2026. resleting utama agak macet",krem,Mushola Gedung C,2026-09-10,0
+RPT-0246,found,kartu mahasiswa,Kartu Identitas,Ditemukan kartu mahasiswa merah dekat Studio Musik. card khusus untuk masuk lab. Hubungi untuk klaim,merah,Studio Musik,2026-08-01,0
+RPT-0247,found,kartu akses gedung,Kartu Identitas,Saya mau melaporkan penemuan kartu akses gedung abu-abu di Ruang Seminar. kartu identitas original,abu-abu,Ruang Seminar,2026-09-09,0
+RPT-0248,lost,kunci motor,Kunci,"Mohon bantuannya, kunci motor berwarna krem tertinggal di Fakultas MIPA. kunci duplikat, bentuknya sederhana. Sangat butuh",krem,Fakultas MIPA,2026-07-06,0
+RPT-0249,found,topi,Aksesori,Menemukan topi ungu yang ditinggalkan di Gazebo Kampus. cap dengan emblem di depan,ungu,Gazebo Kampus,2026-09-28,0
+RPT-0250,lost,botol minum,Barang Lainnya,botol minum hijau saya jatuh atau tertinggal di Gedung Kuliah Bersama. payung lipat otomatis,hijau,Gedung Kuliah Bersama,2026-08-25,0
+RPT-0251,found,syal,Aksesori,Ditemukan syal warna merah terang tertinggal di Ruang Kelas A201. arloji digital bermerk Casio,merah terang,Ruang Kelas A201,2026-08-30,70
+RPT-0252,lost,kalkulator,Alat Tulis,Saya baru sadar kalkulator abu-abu saya tidak ada. Terakhir di Fakultas Hukum. penggaris 30cm transparan,abu-abu,Fakultas Hukum,2026-09-02,0
+RPT-0253,lost,laptop Acer,Laptop,Hilang: laptop Acer putih dari Masjid Kampus. baterai sudah mulai drop. Jika menemukan tolong hubungi,putih,Masjid Kampus,2026-07-21,0
+RPT-0254,found,pensil mekanik,Alat Tulis,Ditemukan pensil mekanik putih dekat Gedung Rektorat. pen yang bisa ganti warna. Hubungi untuk klaim,putih,Gedung Rektorat,2026-07-26,0
+RPT-0255,found,SIM,Kartu Identitas,Tadi pagi menemukan SIM berwarna hijau di Studio Musik. milik mahasiswa jurusan IT,hijau,Studio Musik,2026-08-02,0
+RPT-0256,lost,buku catatan,Alat Tulis,Saya kehilangan buku catatan biru tua di Laboratorium Komputer. pulpen parker warna silver,biru tua,Laboratorium Komputer,2026-10-08,71
+RPT-0257,lost,dompet wanita,Dompet,"Lapor kehilangan dompet wanita ungu di Mushola Gedung C, tanggal 9 Agustus 2026. berisi kartu debit dan e-money",ungu,Mushola Gedung C,2026-08-09,0
+RPT-0258,lost,ikat pinggang,Aksesori,Saya yakin menaruh ikat pinggang biru di Kantin Pusat tapi sekarang sudah tidak ada. kalung liontin kecil,biru,Kantin Pusat,2026-08-09,0
+RPT-0259,lost,handphone Vivo,Handphone,handphone Vivo krem saya jatuh atau tertinggal di Kantin Pusat. ada pop socket di belakang,krem,Kantin Pusat,2026-09-27,0
+RPT-0260,found,tas laptop,Tas,Lapor penemuan: tas laptop putih di Gazebo Kampus. terdapat gantungan karakter di tasnya,putih,Gazebo Kampus,2026-10-09,0
+RPT-0261,lost,kunci rumah,Kunci,"Kehilangan kunci rumah merah di Lorong Fakultas Teknik pada tanggal 13 Agustus 2026. kunci duplikat, bentuknya sederhana. Sangat penting bagi saya",merah,Lorong Fakultas Teknik,2026-08-13,0
+RPT-0262,found,KTM,Kartu Identitas,Ada yang merasa kehilangan KTM coklat di sekitar Laboratorium Komputer? tercantum foto dan nomor induk mahasiswa,coklat,Laboratorium Komputer,2026-08-27,0
+RPT-0263,lost,charger laptop,Laptop,Saya baru sadar charger laptop perak saya tidak ada. Terakhir di Lab Fisika. charger original bawaan laptop,perak,Lab Fisika,2026-07-10,0
+RPT-0264,found,keychain,Kunci,Barang temuan: keychain berwarna hijau muda di area kantin. ada gantungan boneka biru di kuncinya,hijau muda,area kantin,2026-07-21,58
+RPT-0265,lost,kartu mahasiswa,Kartu Identitas,"Saya lupa menaruh kartu mahasiswa coklat di Mushola Gedung C. KTP asli, bukan fotokopi. Sangat butuh",coklat,Mushola Gedung C,2026-07-23,77
+RPT-0266,lost,earphone,Barang Lainnya,Baru saja kehilangan earphone berwarna biru saat berada di Parkiran Motor. botol minum tumbler stainless,biru,Parkiran Motor,2026-08-30,72
+RPT-0267,lost,dompet kain,Dompet,Siapa yang menemukan dompet kain pink di Lab Kimia? berisi KTM dan kartu ATM BCA,pink,Lab Kimia,2026-08-23,64
+RPT-0268,lost,kartu perpustakaan,Kartu Identitas,"Apakah ada yang menemukan kartu perpustakaan hitam di Mushola Gedung C? KTP asli, bukan fotokopi. Mohon hubungi saya",hitam,Mushola Gedung C,2026-07-01,50
+RPT-0269,found,ikat pinggang,Aksesori,Saya mau melaporkan penemuan ikat pinggang abu-abu di Lobby Gedung B. bracelet dari benang berwarna-warni,abu-abu,Lobby Gedung B,2026-09-14,0
+RPT-0270,found,MacBook,Laptop,Lapor penemuan: MacBook ungu di Halte Bus Kampus. hinge-nya agak kendur,ungu,Halte Bus Kampus,2026-08-29,0
+RPT-0271,found,kunci loker,Kunci,Ada yang merasa kehilangan kunci loker putih di sekitar Fakultas Ekonomi? keychain berbentuk love,putih,Fakultas Ekonomi,2026-07-01,0
+RPT-0272,found,ikat pinggang,Aksesori,Ketemu ikat pinggang putih di Masjid Kampus tadi sore. bracelet dari benang berwarna-warni,putih,Masjid Kampus,2026-07-20,0
+RPT-0273,lost,HP android,Handphone,"Lapor kehilangan HP android pink di Gedung Kuliah Bersama, tanggal 23 September 2026. memory 128GB, warna gradasi",pink,Gedung Kuliah Bersama,2026-09-23,0
+RPT-0274,found,kunci sepeda,Kunci,"Saya mau melaporkan penemuan kunci sepeda coklat di Ruang Kelas A201. kunci salinan, model simpel",coklat,Ruang Kelas A201,2026-08-07,0
+RPT-0275,lost,power bank,Barang Lainnya,"Mohon bantuan, saya kehilangan power bank berwarna krem di Lobby Gedung B. flashdisk 32GB merk Sandisk",krem,Lobby Gedung B,2026-09-24,45
+RPT-0276,lost,dompet kecil,Dompet,"Tolong, dompet kecil saya krem hilang di Parkiran Motor. model lipat dua, ada foto di dalamnya. Terakhir terlihat tanggal 17 September 2026",krem,Parkiran Motor,2026-09-17,0
+RPT-0277,lost,laptop Asus,Laptop,laptop Asus krem saya jatuh atau tertinggal di Fakultas Hukum. keyboard ada tombol yang agak lengket,krem,Fakultas Hukum,2026-08-30,0
+RPT-0278,found,sling bag,Tas,Ada sling bag abu-abu tak bertuan di Lab Kimia. strap-nya sudah mulai pudar. Silakan klaim,abu-abu,Lab Kimia,2026-08-21,0
+RPT-0279,lost,kunci sepeda,Kunci,Hilang: kunci sepeda emas dari Lab Kimia. ada karet warna-warni di gagangnya. Jika menemukan tolong hubungi,emas,Lab Kimia,2026-09-28,0
+RPT-0280,lost,topi,Aksesori,"Mohon bantuannya, topi berwarna merah marun tertinggal di Lab Kimia. topi baseball dengan logo. Sangat butuh",merah marun,Lab Kimia,2026-08-04,0
+RPT-0281,lost,payung,Barang Lainnya,Baru saja kehilangan payung berwarna merah saat berada di Gazebo Kampus. mouse wireless Logitech,merah,Gazebo Kampus,2026-07-27,54
+RPT-0282,found,totebag,Tas,Ketemu totebag putih di Masjid Kampus tadi sore. strap-nya sudah mulai pudar,putih,Masjid Kampus,2026-07-31,0
+RPT-0283,lost,tempat pensil,Alat Tulis,Hilang: tempat pensil emas dari Toilet Lantai 2 Gedung A. pensil mekanik 0.5mm. Jika menemukan tolong hubungi,emas,Toilet Lantai 2 Gedung A,2026-10-02,0
+RPT-0284,found,syal,Aksesori,Ditemukan syal kecoklatan di area Lab Kimia. cap dengan emblem di depan,kecoklatan,Lab Kimia,2026-07-03,16
+RPT-0285,found,dompet kulit,Dompet,"Ketemu dompet kulit kuning di Pos Satpam tadi sore. bermerk, ada ukiran huruf di depan",kuning,Pos Satpam,2026-09-25,0
+RPT-0286,found,MacBook,Laptop,"Ketemu MacBook krem di Fakultas Ekonomi tadi sore. spesifikasi menengah, performa cukup baik",krem,Fakultas Ekonomi,2026-07-04,0
+RPT-0287,lost,laptop Acer,Laptop,"Lapor kehilangan laptop Acer perak di Toilet Lantai 2 Gedung A, tanggal 25 Juli 2026. dalam tas laptop hitam",perak,Toilet Lantai 2 Gedung A,2026-07-25,0
+RPT-0288,lost,kalkulator,Alat Tulis,Baru saja kehilangan kalkulator berwarna biru tua saat berada di Halte Bus Kampus. tempat pensil motif bunga,biru tua,Halte Bus Kampus,2026-09-25,53
+RPT-0289,found,syal,Aksesori,Ada yang merasa kehilangan syal biru di sekitar Lobby Gedung B? sunglasses bentuk mata kucing,biru,Lobby Gedung B,2026-07-06,0
+RPT-0290,found,Xiaomi,Handphone,Ditemukan Xiaomi merah gelap di area Ruang Seminar. di belakang case ada tempelan stiker,merah gelap,Ruang Seminar,2026-07-27,39
+RPT-0291,lost,dompet panjang,Dompet,Hilang: dompet panjang perak dari Lab Kimia. berisi uang dan beberapa kartu. Jika menemukan tolong hubungi,perak,Lab Kimia,2026-07-02,0
+RPT-0292,lost,dompet kain,Dompet,Tolong bantu cari dompet kain merah yang hilang di Lapangan Olahraga. berisi KTM dan kartu ATM BCA,merah,Lapangan Olahraga,2026-09-10,0
+RPT-0293,found,iPhone,Handphone,Lapor penemuan: iPhone biru tua di Perpustakaan Pusat. di belakang case ada tempelan stiker,biru tua,Perpustakaan Pusat,2026-08-29,0
+RPT-0294,found,kartu tanda mahasiswa,Kartu Identitas,"Tadi menemukan kartu tanda mahasiswa warna putih di sekitar Halte Bus Kampus. surat izin mengemudi roda dua, masih berlaku",warna putih,Halte Bus Kampus,2026-07-15,5
+RPT-0295,found,kunci motor matic,Kunci,"Barang ditemukan: kunci motor matic warna ungu di Mushola Gedung C. kunci salinan, model simpel",warna ungu,Mushola Gedung C,2026-08-16,49
+RPT-0296,lost,kunci loker,Kunci,"Lapor kehilangan kunci loker biru tua di Halte Bus Kampus, tanggal 6 Agustus 2026. ada karet warna-warni di gagangnya",biru tua,Halte Bus Kampus,2026-08-06,0
+RPT-0297,found,buku catatan,Alat Tulis,Siapa punya buku catatan hijau? Ketemu di Sekretariat BEM. pen yang bisa ganti warna,hijau,Sekretariat BEM,2026-09-03,0
+RPT-0298,lost,botol minum,Barang Lainnya,botol minum ungu saya hilang di sekitar Fakultas Ekonomi. flashdisk 32GB merk Sandisk,ungu,Fakultas Ekonomi,2026-09-07,9
+RPT-0299,lost,earphone,Barang Lainnya,earphone warna biru milik saya tertinggal di Halte Bus Kampus. earphone wireless bluetooth,biru,Halte Bus Kampus,2026-09-27,63
+RPT-0300,found,tas slempang,Tas,Ditemukan sebuah tas slempang warna perak yang tertinggal di tempat parkir motor. terdapat gantungan karakter di tasnya,warna perak,tempat parkir motor,2026-08-04,38
+RPT-0301,lost,kalkulator,Alat Tulis,"Tolong, kalkulator saya abu-abu hilang di Lobby Gedung B. pensil mekanik 0.5mm. Terakhir terlihat tanggal 12 Agustus 2026",abu-abu,Lobby Gedung B,2026-08-12,0
+RPT-0302,lost,dompet pria,Dompet,"Saya yakin menaruh dompet pria emas di Auditorium tapi sekarang sudah tidak ada. baru dibeli, masih bagus kondisinya",emas,Auditorium,2026-08-25,0
+RPT-0303,found,pensil mekanik,Alat Tulis,Ketemu pensil mekanik hijau muda di parkir mobil. pencil case bermotif floral. Silakan klaim,hijau muda,parkir mobil,2026-07-31,44
+RPT-0304,found,KTM,Kartu Identitas,"Ada yang merasa kehilangan KTM coklat di sekitar Gedung Kuliah Bersama? ada dua kartu sekaligus, perpus dan mahasiswa",coklat,Gedung Kuliah Bersama,2026-07-05,0
+RPT-0305,lost,sling bag,Tas,Kehilangan sling bag hijau di Ruang Seminar pada tanggal 25 September 2026. resleting utama agak macet. Sangat penting bagi saya,hijau,Ruang Seminar,2026-09-25,0
+RPT-0306,found,totebag,Tas,Saya mau melaporkan penemuan totebag hijau di Studio Musik. strap-nya sudah mulai pudar,hijau,Studio Musik,2026-09-06,0
+RPT-0307,lost,kartu akses gedung,Kartu Identitas,kartu akses gedung hitam saya hilang di sekitar Kantin Pusat. ada gantungan tali di kartu,hitam,Kantin Pusat,2026-07-16,59
+RPT-0308,found,dompet kulit,Dompet,"Ketemu dompet kulit emas di Toilet Lantai 2 Gedung A tadi sore. dompet slim, isinya beberapa kartu",emas,Toilet Lantai 2 Gedung A,2026-09-12,0
+RPT-0309,lost,sling bag,Tas,Hilang: sling bag merah marun dari Lobby Gedung B. ada gantungan boneka kecil. Jika menemukan tolong hubungi,merah marun,Lobby Gedung B,2026-08-07,0
+RPT-0310,lost,earphone,Barang Lainnya,"Tolong, earphone saya biru tua hilang di Lorong Fakultas Teknik. payung besar warna polos. Terakhir terlihat tanggal 17 September 2026",biru tua,Lorong Fakultas Teknik,2026-09-17,0
+RPT-0311,lost,handphone Oppo,Handphone,"Tolong bantu cari handphone Oppo putih yang hilang di Taman Kampus. layar 6.5 inci, agak besar",putih,Taman Kampus,2026-09-02,0
+RPT-0312,lost,dompet kain,Dompet,"dompet kain biru saya jatuh atau tertinggal di Lab Kimia. merk Hush Puppies, ada inisial nama",biru,Lab Kimia,2026-07-16,0
+RPT-0313,found,glasses,Aksesori,Saya menemukan glasses berwarna warna hitam di Sekretariat BEM. cap dengan emblem di depan,warna hitam,Sekretariat BEM,2026-10-08,7
+RPT-0314,found,kalung,Aksesori,Ada kalung warna perak tertinggal di Lab Fisika. necklace dengan pendant mini. Silakan hubungi untuk klaim,warna perak,Lab Fisika,2026-08-03,79
+RPT-0315,lost,kunci motor,Kunci,"Lapor kehilangan kunci motor hijau di Ruang Kelas B102, tanggal 1 Agustus 2026. gantungan kunci berbentuk hati",hijau,Ruang Kelas B102,2026-08-01,0
+RPT-0316,found,payung,Barang Lainnya,Ada payung coklat tak bertuan di Ruang Seminar. headphone gaming ada mikrofonnya. Silakan klaim,coklat,Ruang Seminar,2026-07-13,0
+RPT-0317,lost,sling bag,Tas,Saya kehilangan sling bag kuning di Studio Musik. tali sudah agak lusuh,kuning,Studio Musik,2026-07-28,29
+RPT-0318,found,dompet pria,Dompet,Ditemukan dompet pria ungu dekat Gazebo Kampus. terdapat saku koin dengan resleting. Hubungi untuk klaim,ungu,Gazebo Kampus,2026-07-13,0
+RPT-0319,lost,totebag,Tas,Tolong bantu cari totebag merah marun yang hilang di Food Court. ada saku tersembunyi di belakang,merah marun,Food Court,2026-08-04,0
+RPT-0320,lost,KTM,Kartu Identitas,"Saya tidak sengaja meninggalkan KTM putih di Halte Bus Kampus. SIM C motor, baru perpanjang",putih,Halte Bus Kampus,2026-07-13,5
+RPT-0321,found,handphone Samsung,Handphone,Ada handphone Samsung ungu tak bertuan di Toilet Lantai 2 Gedung A. background-nya gambar kucing. Silakan klaim,ungu,Toilet Lantai 2 Gedung A,2026-09-17,0
+RPT-0322,found,tempat pensil,Alat Tulis,Saya mau melaporkan penemuan tempat pensil biru tua di Lab Fisika. highlighter set berisi enam warna,biru tua,Lab Fisika,2026-08-29,0
+RPT-0323,lost,HP android,Handphone,"Tolong, HP android saya pink hilang di Taman Kampus. masih ada sisa baterai saat hilang. Terakhir terlihat tanggal 14 Agustus 2026",pink,Taman Kampus,2026-08-14,0
+RPT-0324,lost,dompet lipat,Dompet,Tolong bantu cari dompet lipat emas yang hilang di Pos Satpam. berisi SIM dan STNK motor,emas,Pos Satpam,2026-07-13,0
+RPT-0325,lost,KTM,Kartu Identitas,"KTM hijau milik saya tidak ada saat kembali ke Ruang Kelas B102. SIM C motor, baru perpanjang",hijau,Ruang Kelas B102,2026-10-04,0
+RPT-0326,lost,tas kecil,Tas,tas kecil merah marun milik saya tidak ada saat kembali ke Studio Musik. berisi botol minum dan dompet,merah marun,Studio Musik,2026-09-19,0
+RPT-0327,found,dompet lipat,Dompet,"Lapor penemuan: dompet lipat merah di Masjid Kampus. dompet slim, isinya beberapa kartu",merah,Masjid Kampus,2026-07-17,0
+RPT-0328,lost,kunci sepeda,Kunci,"Lapor kehilangan kunci sepeda coklat di UKM Center, tanggal 14 Juli 2026. gantungan kunci karakter doraemon",coklat,UKM Center,2026-07-14,0
+RPT-0329,found,earphone,Barang Lainnya,Ada yang merasa kehilangan earphone krem di sekitar Laboratorium Komputer? headphone gaming ada mikrofonnya,krem,Laboratorium Komputer,2026-07-23,0
+RPT-0330,found,kartu mahasiswa,Kartu Identitas,Barang temuan: kartu mahasiswa berwarna brown di Mushola Gedung C. kartu identitas original,brown,Mushola Gedung C,2026-07-25,77
+RPT-0331,found,HP android,Handphone,"Ada HP android biru tua tak bertuan di Ruang Seminar. penyimpanan besar, warna ombre. Silakan klaim",biru tua,Ruang Seminar,2026-07-09,0
+RPT-0332,lost,dompet kecil,Dompet,"Saya baru sadar dompet kecil ungu saya tidak ada. Terakhir di Fakultas Hukum. merk Hush Puppies, ada inisial nama",ungu,Fakultas Hukum,2026-09-08,0
+RPT-0333,found,MacBook,Laptop,Menemukan MacBook hitam pekat di Pos Satpam. beberapa tombol keyboard sedikit bermasalah,hitam pekat,Pos Satpam,2026-09-13,42
+RPT-0334,found,gantungan kunci,Kunci,Tadi pagi menemukan gantungan kunci berwarna krem di Kantin Fakultas Teknik. gagang kunci diberi tanda warna,krem,Kantin Fakultas Teknik,2026-07-12,0
+RPT-0335,found,dompet kecil,Dompet,Ditemukan dompet kecil pink dekat Fakultas Ekonomi. ada surat-surat kendaraan di dalamnya. Hubungi untuk klaim,pink,Fakultas Ekonomi,2026-08-16,0
+RPT-0336,found,buku catatan,Alat Tulis,Lapor penemuan: buku catatan putih di Fakultas MIPA. notebook spiral ukuran sedang,putih,Fakultas MIPA,2026-08-10,0
+RPT-0337,found,tumbler,Barang Lainnya,Saya menemukan tumbler berwarna warna putih di aula. portable charger kapasitas sepuluh ribu,warna putih,aula,2026-09-04,36
+RPT-0338,found,kartu akses gedung,Kartu Identitas,Ada yang merasa kehilangan kartu akses gedung emas di sekitar Food Court? kartu mahasiswa periode genap tahun ini,emas,Food Court,2026-08-24,0
+RPT-0339,lost,jam tangan,Aksesori,jam tangan kuning saya jatuh atau tertinggal di Fakultas MIPA. topi bucket hat polos,kuning,Fakultas MIPA,2026-08-11,0
+RPT-0340,lost,handphone Xiaomi,Handphone,Apakah ada yang menemukan handphone Xiaomi merah marun di Ruang Seminar? ada stiker di belakang casing. Mohon hubungi saya,merah marun,Ruang Seminar,2026-07-27,39
+RPT-0341,found,totebag,Tas,Menemukan totebag biru tua yang ditinggalkan di Parkiran Motor. terdapat gantungan karakter di tasnya,biru tua,Parkiran Motor,2026-09-19,0
+RPT-0342,found,gelang,Aksesori,Ketemu gelang putih di Parkiran Motor tadi sore. bucket hat tanpa motif,putih,Parkiran Motor,2026-08-05,0
+RPT-0343,lost,sling bag,Tas,"sling bag emas saya jatuh atau tertinggal di Pos Satpam. merk Eiger, ada name tag",emas,Pos Satpam,2026-07-14,0
+RPT-0344,lost,tas jinjing,Tas,Tolong bantu cari tas jinjing abu-abu yang hilang di Fakultas Hukum. berisi buku kuliah dan laptop,abu-abu,Fakultas Hukum,2026-08-08,0
+RPT-0345,lost,botol minum,Barang Lainnya,botol minum putih saya hilang di sekitar Auditorium. power bank 10000mAh,putih,Auditorium,2026-09-03,36
+RPT-0346,found,dompet panjang,Dompet,Ada dompet panjang warna biru tertinggal di Toilet Lantai 2 Gedung A. ada kartu mahasiswa dan kartu bank di dalamnya. Silakan hubungi untuk klaim,warna biru,Toilet Lantai 2 Gedung A,2026-10-08,10
+RPT-0347,found,gantungan kunci,Kunci,Ketemu gantungan kunci kuning di Koperasi Mahasiswa tadi sore. kunci motor matic Yamaha,kuning,Koperasi Mahasiswa,2026-07-17,0
+RPT-0348,lost,totebag,Tas,Siapa yang menemukan totebag putih di Auditorium? ada stiker di bagian depan,putih,Auditorium,2026-09-11,11
+RPT-0349,lost,kalung,Aksesori,"Mohon bantuannya, kalung berwarna emas tertinggal di Parkiran Mobil. gelang rantai tipis. Sangat butuh",emas,Parkiran Mobil,2026-07-17,0
+RPT-0350,lost,HP android,Handphone,"Tolong, HP android saya ungu hilang di Laboratorium Komputer. memory 128GB, warna gradasi. Terakhir terlihat tanggal 17 Juli 2026",ungu,Laboratorium Komputer,2026-07-17,0
+RPT-0351,lost,tas selempang,Tas,Saya baru sadar tas selempang merah marun saya tidak ada. Terakhir di Laboratorium Komputer. berisi jaket dan payung,merah marun,Laboratorium Komputer,2026-08-30,0
+RPT-0352,lost,KTM,Kartu Identitas,"Tolong, KTM saya hitam hilang di Pos Satpam. KTM semester genap 2026. Terakhir terlihat tanggal 6 Agustus 2026",hitam,Pos Satpam,2026-08-06,0
+RPT-0353,found,laptop merk Asus,Laptop,Barang temuan: laptop merk Asus berwarna navy di Ruang Seminar. sedikit lecet di bagian pojok casing,navy,Ruang Seminar,2026-09-19,51
+RPT-0354,found,dompet,Dompet,Siapa pemilik dompet kuning cerah ini? Ditemukan di Lorong Fakultas Teknik. resletingnya ada hiasan kecil,kuning cerah,Lorong Fakultas Teknik,2026-09-18,37
+RPT-0355,lost,KTP,Kartu Identitas,"Kehilangan KTP krem di Parkiran Motor pada tanggal 25 Agustus 2026. KTP asli, bukan fotokopi. Sangat penting bagi saya",krem,Parkiran Motor,2026-08-25,0
+RPT-0356,found,botol minum,Barang Lainnya,"Ketemu botol minum perak di Masjid Kampus tadi sore. earbuds tanpa kabel, koneksi bluetooth",perak,Masjid Kampus,2026-07-20,0
+RPT-0357,found,kartu perpustakaan,Kartu Identitas,"Barang temuan di Studio Musik: kartu perpustakaan kuning. surat izin mengemudi roda dua, masih berlaku",kuning,Studio Musik,2026-08-26,0
+RPT-0358,found,kartu mahasiswa,Kartu Identitas,"Ketemu kartu mahasiswa emas di Kantin Fakultas Teknik tadi sore. ada dua kartu sekaligus, perpus dan mahasiswa",emas,Kantin Fakultas Teknik,2026-10-06,0
+RPT-0359,found,laptop Asus,Laptop,"Ditemukan laptop Asus hitam dekat Kantin Pusat. spesifikasi menengah, performa cukup baik. Hubungi untuk klaim",hitam,Kantin Pusat,2026-09-29,0
+RPT-0360,found,syal,Aksesori,Siapa pemilik syal warna abu ini? Ditemukan di Mushola Gedung C. necklace dengan pendant mini,warna abu,Mushola Gedung C,2026-08-24,25
+RPT-0361,found,charger laptop,Laptop,Ditemukan charger laptop gold di area kantin. adaptor asli masih terbawa,gold,kantin,2026-08-23,33
+RPT-0362,lost,gantungan kunci,Kunci,Saya kehilangan gantungan kunci coklat di Fakultas MIPA. gantungan kunci dari kulit,coklat,Fakultas MIPA,2026-08-07,31
+RPT-0363,lost,botol minum,Barang Lainnya,botol minum pink saya jatuh atau tertinggal di Fakultas Hukum. flashdisk 32GB merk Sandisk,pink,Fakultas Hukum,2026-07-06,0
+RPT-0364,lost,headset,Barang Lainnya,Saya baru sadar headset merah marun saya tidak ada. Terakhir di Ruang Kelas B102. flash disk kecil model slide,merah marun,Ruang Kelas B102,2026-10-07,0
+RPT-0365,found,kalung,Aksesori,Barang temuan di Halte Bus Kampus: kalung pink. sunglasses bentuk mata kucing,pink,Halte Bus Kampus,2026-09-21,0
+RPT-0366,found,in-ear,Barang Lainnya,Ditemukan in-ear warna kebiruan tertinggal di parkiran. tumbler dari bahan stainless steel,kebiruan,parkiran,2026-08-31,72
+RPT-0367,found,KTP,Kartu Identitas,Ada KTP emas tak bertuan di Parkiran Mobil. card khusus untuk masuk lab. Silakan klaim,emas,Parkiran Mobil,2026-09-11,0
+RPT-0368,lost,pensil mekanik,Alat Tulis,"Lapor kehilangan pensil mekanik biru tua di Food Court, tanggal 5 Agustus 2026. pulpen parker warna silver",biru tua,Food Court,2026-08-05,0
+RPT-0369,lost,payung,Barang Lainnya,Kehilangan payung abu-abu di Kantin Pusat pada tanggal 14 September 2026. kabel charger type C. Sangat penting bagi saya,abu-abu,Kantin Pusat,2026-09-14,0
+RPT-0370,found,totebag,Tas,Lapor penemuan: totebag abu-abu di Taman Kampus. strap-nya sudah mulai pudar,abu-abu,Taman Kampus,2026-10-07,0
+RPT-0371,found,dompet berbahan kulit,Dompet,Tadi menemukan dompet berbahan kulit kebiruan di sekitar Ruang Kelas A201. kondisi masih baru dan terawat,kebiruan,Ruang Kelas A201,2026-07-13,19
+RPT-0372,found,sling bag,Tas,Saya menemukan sling bag berwarna kehijauan di FMIPA. zipper utamanya sedikit bermasalah,kehijauan,FMIPA,2026-07-12,74
+RPT-0373,found,syal,Aksesori,Siapa punya syal hijau? Ketemu di Lab Kimia. bracelet dari benang berwarna-warni,hijau,Lab Kimia,2026-08-13,0
+RPT-0374,found,kalkulator,Alat Tulis,Ditemukan kalkulator putih dekat Sekretariat BEM. pencil case bermotif floral. Hubungi untuk klaim,putih,Sekretariat BEM,2026-09-21,0
+RPT-0375,found,kartu perpustakaan,Kartu Identitas,Ada kartu perpustakaan warna hitam tertinggal di Mushola Gedung C. kartu identitas original. Silakan hubungi untuk klaim,warna hitam,Mushola Gedung C,2026-07-02,50
+RPT-0376,found,tas kecil,Tas,Tadi pagi menemukan tas kecil berwarna ungu di Lab Fisika. isinya peralatan tulis dan kabel charger,ungu,Lab Fisika,2026-08-23,0
+RPT-0377,found,laptop Lenovo,Laptop,"Ditemukan laptop Lenovo krem dekat Parkiran Motor. ukuran layar sedang, model slim. Hubungi untuk klaim",krem,Parkiran Motor,2026-10-06,0
+RPT-0378,lost,kartu akses gedung,Kartu Identitas,Baru saja kehilangan kartu akses gedung berwarna ungu saat berada di Laboratorium Komputer. kartu akses gedung laboratorium,ungu,Laboratorium Komputer,2026-08-19,14
+RPT-0379,found,dompet panjang,Dompet,Lapor penemuan: dompet panjang coklat di Halte Bus Kampus. ada kartu bank dan kartu elektronik,coklat,Halte Bus Kampus,2026-07-25,0
+RPT-0380,found,ponsel Xiaomi,Handphone,Ditemukan ponsel Xiaomi warna kemerahan tertinggal di parkiran. case bermotif marmer,kemerahan,parkiran,2026-08-02,12
+RPT-0381,lost,topi,Aksesori,"Mohon bantuannya, topi berwarna perak tertinggal di Sekretariat BEM. gelang rantai tipis. Sangat butuh",perak,Sekretariat BEM,2026-08-14,0
+RPT-0382,lost,tas laptop,Tas,Saya baru sadar tas laptop emas saya tidak ada. Terakhir di Laboratorium Komputer. tali sudah agak lusuh,emas,Laboratorium Komputer,2026-08-05,0
+RPT-0383,found,dompet pria,Dompet,"Ada yang merasa kehilangan dompet pria emas di sekitar Gazebo Kampus? bentuk lipat, terselip foto",emas,Gazebo Kampus,2026-08-26,0
+RPT-0384,lost,laptop Asus,Laptop,"Tolong, laptop Asus saya krem hilang di Toilet Lantai 2 Gedung A. ada goresan kecil di sudut bodi. Terakhir terlihat tanggal 24 September 2026",krem,Toilet Lantai 2 Gedung A,2026-09-24,0
+RPT-0385,found,kartu mahasiswa,Kartu Identitas,Menemukan kartu mahasiswa hitam pekat di Ruang Kelas A201. card khusus untuk masuk lab,hitam pekat,Ruang Kelas A201,2026-09-21,68
+RPT-0386,lost,kalkulator,Alat Tulis,"Tolong bantu, kalkulator saya yang coklat tertinggal di Lorong Fakultas Teknik. pensil mekanik 0.5mm",coklat,Lorong Fakultas Teknik,2026-08-28,35
+RPT-0387,lost,gelang,Aksesori,Saya baru sadar gelang merah marun saya tidak ada. Terakhir di Lorong Fakultas Teknik. jam tangan digital merk Casio,merah marun,Lorong Fakultas Teknik,2026-07-04,0
+RPT-0388,found,dompet wanita,Dompet,Ada yang kehilangan dompet wanita gold? Ditemukan di Ruang Kelas B102. resletingnya ada hiasan kecil,gold,Ruang Kelas B102,2026-07-07,28
+RPT-0389,lost,handphone Samsung,Handphone,Kehilangan handphone Samsung warna pink sekitar area Fakultas MIPA. casing motif marble,pink,Fakultas MIPA,2026-09-30,3
+RPT-0390,lost,topi,Aksesori,"Mohon bantuannya, topi berwarna emas tertinggal di Mushola Gedung C. jam tangan digital merk Casio. Sangat butuh",emas,Mushola Gedung C,2026-10-01,0
+RPT-0391,lost,sling bag,Tas,sling bag warna hijau milik saya tertinggal di Fakultas MIPA. resleting utama agak macet,hijau,Fakultas MIPA,2026-07-10,74
+RPT-0392,lost,power bank,Barang Lainnya,Tolong bantu cari power bank putih yang hilang di Food Court. power bank 10000mAh,putih,Food Court,2026-07-02,0
+RPT-0393,lost,kartu akses gedung,Kartu Identitas,Hilang: kartu akses gedung hitam dari Koperasi Mahasiswa. kartu dengan foto lama. Jika menemukan tolong hubungi,hitam,Koperasi Mahasiswa,2026-07-31,0
+RPT-0394,lost,kunci gembok,Kunci,Kehilangan kunci gembok kuning di Koperasi Mahasiswa pada tanggal 4 Juli 2026. gantungan kunci berbentuk hati. Sangat penting bagi saya,kuning,Koperasi Mahasiswa,2026-07-04,0
+RPT-0395,found,tas punggung,Tas,Ada tas punggung emas tak bertuan di Toilet Lantai 2 Gedung A. ada jaket dan payung lipat di dalamnya. Silakan klaim,emas,Toilet Lantai 2 Gedung A,2026-07-20,0
+RPT-0396,found,kunci motor,Kunci,Ketemu kunci motor hitam di Ruang Seminar tadi sore. kunci kendaraan matic Honda,hitam,Ruang Seminar,2026-08-01,0
+RPT-0397,lost,dompet lipat,Dompet,"Mohon bantuan, saya kehilangan dompet lipat berwarna ungu di Taman Kampus. berisi uang dan beberapa kartu",ungu,Taman Kampus,2026-10-08,73
+RPT-0398,found,anak kunci,Kunci,Siapa pemilik anak kunci kecoklatan ini? Ditemukan di UKM Center. ada gantungan boneka biru di kuncinya,kecoklatan,UKM Center,2026-07-12,13
+RPT-0399,lost,kunci rumah,Kunci,"Tolong bantu, kunci rumah saya yang coklat tertinggal di UKM Center. gantungan kunci karakter doraemon",coklat,UKM Center,2026-07-12,13
+RPT-0400,lost,iPhone,Handphone,iPhone biru tua milik saya tidak ada saat kembali ke Ruang Kelas A201. wallpaper foto kucing,biru tua,Ruang Kelas A201,2026-07-21,0
